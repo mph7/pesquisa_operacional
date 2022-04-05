@@ -30,7 +30,7 @@ PO
 4. As ativades de pesquisa operacional se iniciaram na segunda guerra mundial, para resolver problemas táticos e estratégicos
 <br>
 <br>
-5. A natureza da PO é aplicada em problemas para buscar a solução ótima
+5. A PO é aplicada em problemas para buscar a solução ótima
 <br>
 
 <hr>
