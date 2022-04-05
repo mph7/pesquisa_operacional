@@ -55,6 +55,7 @@ PO
 <br>
   
 9. Tipos de modelos
+- Simbólicos
 - Analíticos
 - Simulação
 
