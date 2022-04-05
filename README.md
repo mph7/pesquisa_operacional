@@ -66,3 +66,24 @@ PO
 <hr>
 
 # Slide 03
+
+11. Razões para usar programação linear
+- Algoritmos eficientes
+- Estágio tecnologico atual
+- Varias situações podem ser aproximadas
+
+<hr>
+
+# Slide 04
+
+12. Problemas Multiperiodos<br>
+  &rarr; Pode ser subdividido em diversos períodos<br>
+  &rarr; O que é decidido em um período pode impactar na decisão a ser tomada nos outros<br>
+  _*Exemplo*_: Funcionários de uma empresa que trabalham no final de semana devem receber uma remuneração maior;<br>
+               Variação da demanda conforme períodos;
+  
+  
+  
+<br>
+<hr>
+
